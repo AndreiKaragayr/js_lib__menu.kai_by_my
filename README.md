@@ -5,7 +5,7 @@
 ***
 
 ### Вы можете скачать Kai-menu Zip архивом.
-[![download Area-scroll](http://gifimage.net/wp-content/uploads/2017/10/download-button-gif-13.gif)](https://github.com/AndreiKaragayr/kai-menu.git)
+[![download Area-scroll](https://archive.org/download/button-download-animated/button-download-animated.gif)](https://github.com/AndreiKaragayr/kai-menu.git)
 ![preview Kai-menu](preview.png "One slide")
 
 ***
