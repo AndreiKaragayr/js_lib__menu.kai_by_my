@@ -7,12 +7,12 @@ $(document).ready(function($) {
 	// опции которые можно менять
 	opts = {
 		timeTransition: 2000, // время аннимации элементов меню
-		timeUp: 1100,
+		timeUp: 1100, // время скроллинга страницы после нажатия вверх
 		searchAction: '#', // адрес сервера для запроса поиска
 		searchMethod: 'GET', // метод запроса на сервер
-		searchPlaceholder: 'start typing...', // подсказка дял поиска
-		iconToUp: '<i class="fa fa-arrow-up" aria-hidden="true"></i>', // иконка длч кнопки вверх
-		colorLink: '#999999', // цет ссылок и иконок
+		searchPlaceholder: 'start typing...', // подсказка для поиска
+		iconToUp: '<i class="fa fa-arrow-up" aria-hidden="true"></i>', // иконка для кнопки вверх
+		colorLink: '#999999', // цвет ссылок и иконок
 		colorHover: '#8accff' // цвет при наведении и активные\х ссылок
 	}
 
