@@ -5,7 +5,7 @@
 ***
 
 ### Вы можете скачать Kai-menu Zip архивом.
-[![download Area-scroll](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)
+![download Area-scroll](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)
 ![preview Kai-menu](preview.png "One slide")
 
 ***
