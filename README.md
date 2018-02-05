@@ -81,7 +81,7 @@
 <div class="kai-menu">
 	<a href="index.html" class="kai-logo">
 		<img src="" alt="">
-		<img src="" alt=""></a>
+		<img src="" alt="">
 	</a>
 	<ul class="kai-nav">
 		<li><a href=""></a></li>
