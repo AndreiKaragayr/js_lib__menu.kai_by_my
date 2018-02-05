@@ -5,7 +5,9 @@
 ***
 
 ### Вы можете скачать Kai-menu Zip архивом.
-![download Area-scroll](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)
+[![download slide Overla](https://a.radikal.ru/a34/1802/4b/b81ed6707937.gif)](https://github.com/AndreiKaragayr/kai-menu.git)
+
+
 ![preview Kai-menu](preview.png "One slide")
 
 ***
